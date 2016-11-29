@@ -1,0 +1,95 @@
+/* Text styles */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
+
+html, button, input, select, textarea,
+.pure-g [class *= "pure-u"] {
+    /* Set your content font stack here: */
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h3{
+    color: #C93636;
+}
+
+h2, h4{
+    color: #808080;
+}
+
+.meta {
+    color: #808080;
+    font-style: italic;
+}
+
+/* Menu styles */
+.home-menu {
+    padding: 0.1em;
+    text-align: center;
+    box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
+}
+
+/* Content styles */
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+
+.block-center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 10px;
+}
+
+.img-center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content{
+text-align: justify;
+}
+
+/* Box styles */
+.l-box {
+    padding: 1em;
+}
+
+.t-box {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.c-box {
+    background-color: #F5F5F5;
+}
+
+.f-box {
+    /*Footer box*/
+/*     padding: 0.5em; */
+    background-color: #C93636;
+    color: #bebebe;
+}
+
+/* About styles */
+.ul-about{
+    /* Positioning */
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+/* Image post styles */
+.p-img{
+    color: #808080;
+    font-size: small;
+}
