@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Publications
+date: 2014-03-31 00:00:00 Z
+layout: page
 ---
 
 ## Papers

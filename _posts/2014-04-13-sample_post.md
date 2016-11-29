@@ -1,19 +1,16 @@
 ---
-layout: post
-
 title: Sample post
+date: 2014-04-13 00:00:00 Z
+layout: post
 subtitle: How to write a post
 cover_image: post-cover.jpg
 excerpt: Using markdown plain text to write a post
-
-draft: True
-
 author:
   name: Carlos González C.
   about: about.html
   bio: Engineer
   image: cgz.png
---- 
+---
 
 All post file must be named yyyy-mm-dd-post_title.md
 
