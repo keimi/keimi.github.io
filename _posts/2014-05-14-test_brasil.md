@@ -1,19 +1,16 @@
 ---
-layout: post
-
 title: Testing SUCHAI satellite at INPE, Brasil
+date: 2014-05-14 00:00:00 Z
+layout: post
 subtitle: Simulated acceptance tests for launching.
 cover_image: post-cover.jpg
 excerpt: 
-
-draft: False
-
 author:
   name: Carlos González C.
   about: about.html
   bio: Engineer
   image: cgz.png
---- 
+---
 
 The past Monday, May 12th, [SUCHAI](http://spel.ing.uchile.cl/suchai.html)
 cubesat project team traveled to São José dos Campos, Brasil to perform 
